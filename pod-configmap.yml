@@ -13,4 +13,3 @@ spec:
         configMapRef:
           name: game-demo
           key: player_initial_lives
-    
